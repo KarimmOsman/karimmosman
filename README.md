@@ -1,8 +1,9 @@
+
 <h1 align="center">👋 Hi, I'm Karim Osman</h1>
-<h3 align="center">Full-Stack Developer (.NET & Angular)</h3>
+<h3 align="center">Frontend Developer | Angular & .NET Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:karimm.osman22@gmail.com" target="_blank" style="margin-right: 20px;">
+  <a href="mailto:karimm.osman22@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="25" height="25"/>
     <span>karimm.osman22@gmail.com</span>
   </a>
@@ -16,17 +17,20 @@
 ---
 
 ## 👨‍💻 About Me
-<p align="left">
-  Highly motivated <b>Full-Stack Developer</b> with a strong foundation in <b>.NET Core</b> and <b>Angular</b>, passionate about building <b>scalable</b> and <b>efficient</b> web applications.  
-  Skilled in both <b>front-end</b> and <b>back-end</b> development, delivering <b>clean, maintainable code</b> with a focus on best practices.  
-  A <b>quick learner</b>, eager to contribute to dynamic projects and grow within a <b>collaborative team environment</b>.
-</p>
+
+I’m a passionate **Frontend Developer** with a solid background in **Angular**, **TypeScript**, and **.NET**.  
+I enjoy building **scalable**, **high-performance web applications** with clean UI and maintainable code.  
+
+I focus on:
+- Creating **modern, responsive interfaces** with a strong attention to detail.  
+- Writing **clean, modular, and testable code** that follows best practices.  
+- Continuously learning and applying the latest **frontend technologies and design patterns**.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🌐 Frontend
 <p>
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
@@ -38,7 +42,7 @@
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
 </p>
 
-### Backend
+### ⚙️ Backend
 <p>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
@@ -46,7 +50,7 @@
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
 </p>
 
-### Tools & Others
+### 🧰 Tools & Others
 <p>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
@@ -55,4 +59,39 @@
 
 ---
 
-<h4 align="center">✨ Thanks for visiting my profile! ✨</h4>
+## 🚀 Featured Projects
+
+### 🛒 [FreshCart](https://github.com/KarimmOsman/freshcart)
+**Live Demo:** [freshcart-flj5-git-main-karim-osmans-projects.vercel.app](https://freshcart-flj5-git-main-karim-osmans-projects.vercel.app/)  
+A **responsive e-commerce platform** built with **Angular** and **Tailwind CSS**, featuring modular architecture and RESTful API integration.
+
+**Tech:** Angular · TypeScript · TailwindCSS · RxJS · REST API  
+
+---
+
+### 🧠 [Quiz App](https://github.com/KarimmOsman/quiz-app)
+**Live Demo:** [karimmosman.github.io/quiz-app](https://karimmosman.github.io/quiz-app/)  
+An interactive quiz platform with animated transitions and live score updates, built to demonstrate **state management** and **DOM manipulation**.
+
+**Tech:** JavaScript · HTML5 · CSS3  
+
+---
+
+### 🌤️ [Weather App](https://github.com/KarimmOsman/weather-app)
+**Live Demo:** [karimmosman.github.io/weather-app](https://karimmosman.github.io/weather-app/)  
+A **real-time weather dashboard** that fetches live API data, featuring responsive design and modular JavaScript.
+
+**Tech:** JavaScript · OpenWeather API · CSS3  
+
+---
+
+### ✅ [To-Do List](https://github.com/KarimmOsman/to-do-list)
+**Live Demo:** [karimmosman.github.io/to-do-list](https://karimmosman.github.io/to-do-list/)  
+A **minimalist productivity app** with local storage and a focus on clean UI and accessibility.
+
+**Tech:** HTML5 · CSS3 · JavaScript  
+
+---
+
+<h4 align="center">✨ Thanks for stopping by! Let’s build something great together. ✨</h4>
+
