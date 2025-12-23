@@ -69,6 +69,14 @@ A **responsive e-commerce platform** built with **Angular** and **Tailwind CSS**
 
 ---
 
+### 📱 [LinkedPosts](https://github.com/KarimmOsman/linkedposts)
+**Live Demo:** [linkedposts-rosy.vercel.app](https://linkedposts-rosy.vercel.app/)  
+A **modern social media platform** built with **Angular 20**, featuring **secure authentication**, **real-time interactions**, and a **responsive UI** using Tailwind CSS and Flowbite.
+
+**Tech:** Angular 20 · TypeScript · Tailwind CSS · RxJS · JWT · Flowbite  
+
+---
+
 ### 🧠 [Quiz App](https://github.com/KarimmOsman/quiz-app)
 **Live Demo:** [karimmosman.github.io/quiz-app](https://karimmosman.github.io/quiz-app/)  
 An interactive quiz platform with animated transitions and live score updates, built to demonstrate **state management** and **DOM manipulation**.
@@ -82,14 +90,6 @@ An interactive quiz platform with animated transitions and live score updates, b
 A **real-time weather dashboard** that fetches live API data, featuring responsive design and modular JavaScript.
 
 **Tech:** JavaScript · OpenWeather API · CSS3  
-
----
-
-### ✅ [To-Do List](https://github.com/KarimmOsman/to-do-list)
-**Live Demo:** [karimmosman.github.io/to-do-list](https://karimmosman.github.io/to-do-list/)  
-A **minimalist productivity app** with local storage and a focus on clean UI and accessibility.
-
-**Tech:** HTML5 · CSS3 · JavaScript  
 
 ---
 
